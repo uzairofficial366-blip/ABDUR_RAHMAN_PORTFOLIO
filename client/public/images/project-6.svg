@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#111111"/>
+  <rect x="20" y="20" width="760" height="460" rx="12" fill="#171717" stroke="#303030" stroke-width="2"/>
+  <!-- Sidebar -->
+  <rect x="40" y="40" width="160" height="420" rx="8" fill="#121212"/>
+  <rect x="60" y="60" width="80" height="12" rx="4" fill="#FF5B1B"/>
+  <rect x="60" y="100" width="120" height="10" rx="3" fill="#333"/>
+  <rect x="60" y="125" width="100" height="10" rx="3" fill="#333"/>
+  <rect x="60" y="150" width="110" height="10" rx="3" fill="#333"/>
+  <!-- Main Dashboard Content -->
+  <rect x="220" y="40" width="540" height="70" rx="8" fill="#151515" stroke="#303030"/>
+  <rect x="240" y="60" width="140" height="14" rx="4" fill="#F5F5F5"/>
+  <rect x="240" y="80" width="80" height="10" rx="3" fill="#FF5B1B"/>
+  <!-- Data Cards -->
+  <rect x="220" y="130" width="165" height="100" rx="8" fill="#181818" stroke="#303030"/>
+  <rect x="240" y="150" width="70" height="10" rx="2" fill="#777"/>
+  <rect x="240" y="175" width="100" height="18" rx="4" fill="#F5F5F5"/>
+  <rect x="240" y="202" width="60" height="8" rx="2" fill="#FF5B1B"/>
+
+  <rect x="405" y="130" width="165" height="100" rx="8" fill="#181818" stroke="#303030"/>
+  <rect x="425" y="150" width="70" height="10" rx="2" fill="#777"/>
+  <rect x="425" y="175" width="100" height="18" rx="4" fill="#F5F5F5"/>
+
+  <rect x="590" y="130" width="170" height="100" rx="8" fill="#181818" stroke="#FF5B1B" stroke-opacity="0.5"/>
+  <rect x="610" y="150" width="70" height="10" rx="2" fill="#FF5B1B"/>
+  <rect x="610" y="175" width="100" height="18" rx="4" fill="#F5F5F5"/>
+
+  <!-- Table Preview -->
+  <rect x="220" y="250" width="540" height="210" rx="8" fill="#141414" stroke="#303030"/>
+  <rect x="240" y="275" width="500" height="30" rx="4" fill="#1F1F1F"/>
+  <rect x="240" y="315" width="500" height="30" rx="4" fill="#181818"/>
+  <rect x="240" y="355" width="500" height="30" rx="4" fill="#181818"/>
+  <rect x="240" y="395" width="500" height="30" rx="4" fill="#181818"/>
+</svg>
+

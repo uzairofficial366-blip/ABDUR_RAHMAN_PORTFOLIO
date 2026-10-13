@@ -1,0 +1,15 @@
+# Abdur Rahman Khan — Portfolio Workspace Gitignore
+node_modules/
+.env
+.env.local
+.env.*.local
+dist/
+build/
+server/uploads/*
+!server/uploads/.gitkeep
+client/dist/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+
